@@ -5,3 +5,5 @@
 - Insertion Sort
 - Quick Sort
 - Merge Sort
+- 
+![visualsort](https://user-images.githubusercontent.com/87519278/170554677-55400bc3-d81a-40d9-8cfe-65fdf19297ae.png)
