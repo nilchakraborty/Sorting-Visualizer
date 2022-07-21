@@ -6,4 +6,4 @@
 - Quick Sort
 - Merge Sort
 - 
-![visualsort](https://user-images.githubusercontent.com/87519278/170554677-55400bc3-d81a-40d9-8cfe-65fdf19297ae.png)
+![Screenshot (144)](https://user-images.githubusercontent.com/87519278/180280942-1163ceb9-a4cb-4bc4-9645-b8903d09c38e.png)
